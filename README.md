@@ -4,6 +4,12 @@
 💻 Focado em Desenvolvimento Web, Banco de Dados e Automação
 🚀 Sempre em aprendizado e construindo projetos práticos
 
+💼 Experiência Profissional
+
+LCSi Sistemas — Help Desk & Application Support (ERP)
+📍 São Paulo, Brasil | 🕒 Desde [mês/ano de início]
+Atualmente atuando com suporte técnico e funcional em sistemas ERP, atendimento a usuários, análise de chamados, testes e apoio à equipe de desenvolvimento.
+
 🛠️ Tecnologias que estudo e utilizo
 ### 🚀 Tecnologias que estudo e utilizo:
 
