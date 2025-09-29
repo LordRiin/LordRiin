@@ -42,4 +42,27 @@ Fundamentos de Redes e Segurança da Informação
 📊 Estatísticas do GitHub
 <p align="center"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LordRiin&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordRiin&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=LordRiin&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 📫 Como me encontrar
-<a href="https://linkedin.com/in/pablo-fernandeslopes" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="mailto:pablo.fernandeslopes.97@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /> </a> <a href="https://wa.me/5516992991948" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /> </a> <a href="https://instagram.com/pablofernandesl" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/LordRiin" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> </a>
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/pablo-fernandeslopes" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/>
+</a>
+
+<!-- Email (Gmail) -->
+<a href="mailto:pablo.fernandeslopes;97@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
+</a>
+
+<!-- WhatsApp -->
+<a href="https://wa.me/5516992991948" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40"/>
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/pablofernandesl" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40"/>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/LordRiin" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"/>
+</a>
