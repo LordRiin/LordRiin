@@ -7,11 +7,11 @@
 💼 Experiência Profissional
 
 LCSi Sistemas — Help Desk & Application Support (ERP)
-📍 São Paulo, Brasil | 🕒 Desde [mês/ano de início]
+📍 São Paulo, Brasil | 🕒 Desde Fevereiro de 2025
 Atualmente atuando com suporte técnico e funcional em sistemas ERP, atendimento a usuários, análise de chamados, testes e apoio à equipe de desenvolvimento.
 
-🛠️ Tecnologias que estudo e utilizo
-### 🚀 Tecnologias que estudo e utilizo:
+
+🚀 Tecnologias que estudo e utilizo:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
